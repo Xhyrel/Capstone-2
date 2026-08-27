@@ -1,1 +1,0 @@
-I made this project with beginner coding eperience and without AI. I am also not a designer nor interested in designing, which makes sense with the design with my Capstone 2. This project is mainly built to showcase my knowledge with CSS, specifically, Bootstrap.
